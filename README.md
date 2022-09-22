@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonecampilli
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C, BASH
+- 🌱 I’m currently learning C++, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
